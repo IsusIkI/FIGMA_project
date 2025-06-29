@@ -17,6 +17,7 @@ Projekt zawiera:
 [Projekt Konwerter](https://www.figma.com/design/h70NRu9XLNTM8TWXfyy2XU/Telefon--Copy-?node-id=0-1&t=Snmr4LBHgi7ijO6W-1)  
 [Projekt Baner](https://www.figma.com/design/RqpchZ9sHvvS99ggbpFo6u/D.F-BANER---Copy-?node-id=0-1&t=cjLC1vdj6qOLbpVU-1)
 [Projekt Sklep](https://www.figma.com/design/GauJ8583F0RFrNCyBjI9OW/Jarek?node-id=280-14&t=5JotnZcW6KPUikpq-1)
+
 ## 📸 Zrzuty ekranu
 Zobacz folder `screens/`
 
@@ -43,8 +44,9 @@ Includes:
 - Animated transitions
 
 ## 🔗 Figma Project Links
-[Konwerter Project](https://www.figma.com/design/h70NRu9XLNTM8TWXfyy2XU/Telefon--Copy-?node-id=0-1&t=Snmr4LBHgi7ijO6W-1)  
-[Banner Project](https://www.figma.com/design/RqpchZ9sHvvS99ggbpFo6u/D.F-BANER---Copy-?node-id=0-1&t=cjLC1vdj6qOLbpVU-1)
+[Projekt Konwerter](https://www.figma.com/design/h70NRu9XLNTM8TWXfyy2XU/Telefon--Copy-?node-id=0-1&t=Snmr4LBHgi7ijO6W-1)  
+[Projekt Baner](https://www.figma.com/design/RqpchZ9sHvvS99ggbpFo6u/D.F-BANER---Copy-?node-id=0-1&t=cjLC1vdj6qOLbpVU-1)
+[Projekt Sklep](https://www.figma.com/design/GauJ8583F0RFrNCyBjI9OW/Jarek?node-id=280-14&t=5JotnZcW6KPUikpq-1)
 
 ## 📸 Screenshots
 See folder `screens/`
